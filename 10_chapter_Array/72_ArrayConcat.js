@@ -8,6 +8,7 @@ console.log(c);
 let d = [...a,...b];
 console.log(d);
 
-// Join
+// Join (rarely used)
+// array into big string 
 let s = ["pass", "fail", "skip"].join(" | ");
 console.log(s);

@@ -23,5 +23,6 @@ console.log(original);
 //Deep COPY
 let deep_copy_array = original;
 original.push(91);
+//deep_copy_array.push(91);
 console.log(original);
 console.log(deep_copy_array);

@@ -29,6 +29,6 @@ console.log(arr);
 arr.splice(2, 0, 99);    // at index 2, dont remove anything (0), insert 99
 console.log(arr);
 
-arr.splice(1, 1, 10, 20); // at index 1, remove 2 element, and add 10 & 20
+arr.splice(1, 2, 10, 20); // at index 1, remove 2 element, and add 10 & 20
 console.log(arr);
 

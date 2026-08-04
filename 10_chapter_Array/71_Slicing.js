@@ -16,4 +16,4 @@ console.log(arr.slice(0));
 
 console.log(arr.slice(-5));
 
-console.log(arr.slice(-3, -5));
+console.log(arr.slice(-3, -5));// cant go left only move right side
